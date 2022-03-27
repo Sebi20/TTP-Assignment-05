@@ -1,0 +1,21 @@
+body{
+    background-color: rgb(63, 93, 119);
+}
+
+td{
+    width: 30px;
+    height: 30px;
+    border: solid 0.1px black;
+    margin:1px;
+}
+
+div{
+    text-align: center;
+}
+
+div table{
+    margin-top:20px;
+}
+
+
+
